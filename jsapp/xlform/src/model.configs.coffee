@@ -183,7 +183,7 @@ module.exports = do ->
     image: {
       'max-pixels': {
         type: configs.paramTypes.number
-        defaultValue: 1024
+        defaultValue: 100024
       }
     }
     select_one: {
